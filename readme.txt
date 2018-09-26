@@ -1,20 +1,20 @@
 -----------------------
 # README
 -----------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+Anil Kumar is a one page bootstrap 3 based resume/portfolio.
 
 
-Template Info:
+Page Info:
 -----------------------
-Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
+Name: 		Anil Kumar
 Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+Author: 	anil pandiya
+Website: 	https://www.anilpandiya.github.io
 
 
 Changelog:
 -----------------------
-Version 1.0 14-05-2018
+Version 1.0 26-09-2018
 - initial release 
 
 
@@ -31,4 +31,4 @@ Credits:
 
 License:
 -----------------------
-This template is under Free License - https://www.themesine.com/license/
+This template is under Free License
