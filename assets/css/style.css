@@ -155,7 +155,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 
 
 /*.menu-ui-design*/
-.menu-ui-design{overflow-y:scroll;height: 350px;}
+.menu-ui-design{overflow-y:scroll;height: 300px;}
 .menu-ui-design::-webkit-scrollbar {
     width:5px;
 }
@@ -190,7 +190,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #E74C3C;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(../images/about/welcome-banner1.jpeg)no-repeat;
     background-size:cover;
     background-position: center;
     height:700px;
