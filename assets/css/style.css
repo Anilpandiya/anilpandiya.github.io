@@ -155,7 +155,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 
 
 /*.menu-ui-design*/
-.menu-ui-design{overflow-y:scroll;height: 300px;}
+.menu-ui-design{overflow-y:scroll;height: 250px;}
 .menu-ui-design::-webkit-scrollbar {
     width:5px;
 }
