@@ -1,9 +1,8 @@
 $(document).ready(function(){
 	"use strict";
     
-        /*==================================
-* Author        : "ThemeSine"
-* Template Name : Khanas HTML Template
+/*==================================
+* Author        : "Anil"
 * Version       : 1.0
 ==================================== */
 
