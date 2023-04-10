@@ -283,6 +283,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #E74C3C;}
 .single-about-img img {
     max-width: 500px;
     height: 468px;
+    width: 109%;
 }
 .about-list-icon{
     display: flex;
